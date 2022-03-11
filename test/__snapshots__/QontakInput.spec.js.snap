@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test snapshot 1`] = `
+"<div role=\\"group\\" class=\\"input-group\\">
+  <!----><input type=\\"text\\" autocomplete=\\"off\\" class=\\"form-control\\">
+  <!---->
+</div>"
+`;
